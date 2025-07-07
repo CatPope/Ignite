@@ -1,1 +1,1 @@
-# This reposistory is for Ignite test code
+# Ignite test code를 위한 Reposistory 입니다.
